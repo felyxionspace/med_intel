@@ -1,8 +1,9 @@
-# MedIntel - AI Health Scan
+# MedIntel - Medical Intelligent Assistant
+## Intelligent Assistant for Respiratory Disease Diagnosis
 
 ![MedIntel Logo](assets/assets/new_logo.png)
 
-**MedIntel** adalah aplikasi berbasis AI untuk membantu analisis medis dari gambar CT Scan.  
+**MedIntel** adalah aplikasi berbasis AI untuk membantu analisis medis dari gambar Chest X-Ray.  
 Aplikasi ini memanfaatkan **deep learning** untuk menghasilkan prediksi dan visualisasi Grad-CAM, sehingga memudahkan tenaga medis untuk memahami fokus model AI pada hasil scan.
 
 ---
