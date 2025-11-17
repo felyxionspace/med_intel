@@ -1,6 +1,6 @@
 # MedIntel - AI Health Scan
 
-![MedIntel Logo](assets/new_logo.png)
+![MedIntel Logo](assets/assets/new_logo.png)
 
 **MedIntel** adalah aplikasi berbasis AI untuk membantu analisis medis dari gambar CT Scan.  
 Aplikasi ini memanfaatkan **deep learning** untuk menghasilkan prediksi dan visualisasi Grad-CAM, sehingga memudahkan tenaga medis untuk memahami fokus model AI pada hasil scan.
