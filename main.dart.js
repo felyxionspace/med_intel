@@ -97521,10 +97521,10 @@ a5a(){var s=this,r=null,q=s.f!=null||s.e!=null,p=s.c
 if(q){p.toString
 q=B.r9(new B.aqN(s),A.cR,new B.aqO(),t.z)
 B.eU(p,!1).nS(q).bo(new B.aqP(s),t.P)}else p.au(t.Pu).f.pW(B.Sn(r,r,r,r,r,A.ao,r,B.aS("Silakan pilih gambar terlebih dahulu",r,r,r,r,r,r),r,A.dn,r,r,r,r,r,r,r,r,r))},
-Y(a){var s,r,q,p,o,n,m,l,k=this,j=null,i=B.cB(a,A.aX9,t.w).w.a.a,h=B.aS("Prediksi CT Scan",j,j,j,j,B.c_().$2$color$fontWeight(A.A,A.be),j)
+Y(a){var s,r,q,p,o,n,m,l,k=this,j=null,i=B.cB(a,A.aX9,t.w).w.a.a,h=B.aS("Prediksi Chest X-Ray",j,j,j,j,B.c_().$2$color$fontWeight(A.A,A.be),j)
 h=B.ay6(j,j,!0,6,B.bC(j,j,A.P,j,j,A.qK,j,j,j,j,j,j,j,j),j,h)
 s=i>850?i*0.7:i*0.95
-r=B.aS("Unggah gambar CT Scan paru-paru Anda untuk dianalisis oleh AI.",j,j,j,j,B.c_().$2$color$fontSize(A.ck,14),A.bf)
+r=B.aS("Unggah gambar Chest X-Ray anda untuk dianalisis oleh AI.",j,j,j,j,B.c_().$2$color$fontSize(A.ck,14),A.bf)
 q=B.c1(20)
 p=A.m.a0(76.5)
 o=B.lF(B.a1(p,A.ds.q()>>>16&255,A.ds.q()>>>8&255,A.ds.q()&255),1)
@@ -97843,9 +97843,9 @@ aeO(){var s=this,r=s.f!=null||s.e!=null,q=s.c
 if(r){q.toString
 r=B.r9(new B.asU(s),A.cR,new B.asV(),t.z)
 B.eU(q,!1).nS(r).bo(new B.asW(s),t.P)}else q.au(t.Pu).f.pW(A.aPy)},
-Y(a){var s,r,q,p=this,o=null,n=B.aS("Prediksi CT Scan",o,o,o,o,B.c_().$2$color$fontWeight(A.A,A.be),o)
+Y(a){var s,r,q,p=this,o=null,n=B.aS("Prediksi Chest X-Ray",o,o,o,o,B.c_().$2$color$fontWeight(A.A,A.be),o)
 n=B.ay6(o,o,!0,1,B.bC(o,o,A.P,o,o,A.Mn,o,o,o,o,o,o,o,o),B.az1(o,o,A.tG,o,o,new B.asY(a),o,o,o),n)
-s=B.aS("Unggah atau ambil foto hasil CT Scan Anda untuk dianalisis oleh sistem.",o,o,o,o,B.c_().$2$color$fontSize(A.ck,13.5),A.bf)
+s=B.aS("Unggah atau ambil foto hasil Chest X-Ray Anda untuk dianalisis oleh sistem.",o,o,o,o,B.c_().$2$color$fontSize(A.ck,13.5),A.bf)
 if(p.f==null&&p.e==null){r=B.c1(20)
 q=B.lF(A.ds,1)
 r=B.bC(o,B.cs(B.b([B.jD(A.SF,A.ml,o,60),A.cp,B.aS("Belum ada gambar",o,o,o,o,B.c_().$2$color$fontSize(A.ca,14),o)],t.D),A.a4,A.dr,A.a7),A.P,o,o,new B.bH(A.ex,o,q,r,o,o,A.ah),o,250,o,o,o,o,o,1/0)}else{r=B.c1(20)
@@ -98026,11 +98026,11 @@ $1(a){return B.nl(new B.CP(0.08,new B.jE(this.a,A.di,300,300)))},
 $S:185}
 B.atz.prototype={
 $1(a){var s=null,r=B.a5g(A.Fh,1),q=new B.fl(Date.now(),0,!1)
-return B.Lp(B.b([r,new B.de(s,4,s),B.ej("Generated on "+(""+B.rz(q)+"-"+A.q.eb(A.l.j(B.PV(q)),2,"0")+"-"+A.q.eb(A.l.j(B.PS(q)),2,"0")+" | "+A.q.eb(A.l.j(B.PT(q)),2,"0")+":"+A.q.eb(A.l.j(B.PU(q)),2,"0")+":"+A.q.eb(A.l.j(B.PW(q)),2,"0")),B.eZ(s,A.p1,s,s,s,s,s,s,s,A.b6,s,s,10,s,s,s,!0,s,s,s,s)),B.ej("\xa9 2025 AI Health Scan App",B.eZ(s,A.p1,s,s,s,s,s,s,s,A.b6,s,s,10,s,s,s,!0,s,s,s,s))],t.n_),A.rQ)},
+return B.Lp(B.b([r,new B.de(s,4,s),B.ej("Generated on "+(""+B.rz(q)+"-"+A.q.eb(A.l.j(B.PV(q)),2,"0")+"-"+A.q.eb(A.l.j(B.PS(q)),2,"0")+" | "+A.q.eb(A.l.j(B.PT(q)),2,"0")+":"+A.q.eb(A.l.j(B.PU(q)),2,"0")+":"+A.q.eb(A.l.j(B.PW(q)),2,"0")),B.eZ(s,A.p1,s,s,s,s,s,s,s,A.b6,s,s,10,s,s,s,!0,s,s,s,s)),B.ej("\xa9 2025 MedIntel Team",B.eZ(s,A.p1,s,s,s,s,s,s,s,A.b6,s,s,10,s,s,s,!0,s,s,s,s))],t.n_),A.rQ)},
 $S:186}
 B.aty.prototype={
-$1(a){var s=this,r=null,q=t.n_,p=B.aGm(B.b([new B.jE(s.b,A.di,70,70),new B.de(12,r,r),B.Lp(B.b([B.ej("RS MedIntel",B.eZ(r,r,r,r,r,r,r,r,r,A.b6,r,r,22,r,A.by,r,!0,r,r,r,r)),B.ej("Medical Intelligence Centre",B.eZ(r,r,r,r,r,r,r,r,r,A.b6,r,r,14,r,r,r,!0,r,r,r,r)),B.ej(u.W,B.eZ(r,r,r,r,r,r,r,r,r,A.b6,r,r,12,r,r,r,!0,r,r,r,r))],q),A.ey)],q),A.ey),o=B.a5g(r,2),n=B.nl(B.ej("AI Health Scan Report",B.eZ(r,r,r,r,r,r,r,r,r,A.b6,r,r,22,r,A.by,r,!0,r,r,r,r))),m=B.ej("Hasil Analisis:",B.eZ(r,r,r,r,r,r,r,r,r,A.b6,r,r,18,r,A.by,r,!0,r,r,r,r)),l=s.a.a
-return B.b([p,o,new B.de(r,16,r),n,new B.de(r,20,r),m,new B.de(r,8,r),B.ej("Prediksi model: "+l.e,B.eZ(r,r,r,r,r,r,r,r,r,A.b6,r,r,14,r,r,r,!0,r,r,r,r)),B.ej("Confidence: "+A.m.a3(l.f*100,2)+"%",B.eZ(r,r,r,r,r,r,r,r,r,A.b6,r,r,14,r,r,r,!0,r,r,r,r)),new B.de(r,20,r),B.ej("Gambar CT Scan Pasien:",B.eZ(r,r,r,r,r,r,r,r,r,A.b6,r,r,16,r,A.by,r,!0,r,r,r,r)),new B.de(r,10,r),B.nl(new B.jE(s.c,A.di,300,300)),new B.de(r,20,r),new B.vW(),B.Lp(B.b([B.ej("Grad-CAM:",B.eZ(r,r,r,r,r,r,r,r,r,A.b6,r,r,16,r,A.by,r,!0,r,r,r,r)),new B.de(r,10,r),B.nl(new B.jE(s.d,A.di,300,300)),new B.de(r,20,r)],q),A.ey),new B.de(r,20,r)],q)},
+$1(a){var s=this,r=null,q=t.n_,p=B.aGm(B.b([new B.jE(s.b,A.di,70,70),new B.de(12,r,r),B.Lp(B.b([B.ej("RS MedIntel",B.eZ(r,r,r,r,r,r,r,r,r,A.b6,r,r,22,r,A.by,r,!0,r,r,r,r)),B.ej("Medical Intelligence Centre",B.eZ(r,r,r,r,r,r,r,r,r,A.b6,r,r,14,r,r,r,!0,r,r,r,r)),B.ej(u.W,B.eZ(r,r,r,r,r,r,r,r,r,A.b6,r,r,12,r,r,r,!0,r,r,r,r))],q),A.ey)],q),A.ey),o=B.a5g(r,2),n=B.nl(B.ej("AI Chest X-Ray Report",B.eZ(r,r,r,r,r,r,r,r,r,A.b6,r,r,22,r,A.by,r,!0,r,r,r,r))),m=B.ej("Hasil Analisis:",B.eZ(r,r,r,r,r,r,r,r,r,A.b6,r,r,18,r,A.by,r,!0,r,r,r,r)),l=s.a.a
+return B.b([p,o,new B.de(r,16,r),n,new B.de(r,20,r),m,new B.de(r,8,r),B.ej("Prediksi model: "+l.e,B.eZ(r,r,r,r,r,r,r,r,r,A.b6,r,r,14,r,r,r,!0,r,r,r,r)),B.ej("Confidence: "+A.m.a3(l.f*100,2)+"%",B.eZ(r,r,r,r,r,r,r,r,r,A.b6,r,r,14,r,r,r,!0,r,r,r,r)),new B.de(r,20,r),B.ej("Gambar Chest X-Ray Pasien:",B.eZ(r,r,r,r,r,r,r,r,r,A.b6,r,r,16,r,A.by,r,!0,r,r,r,r)),new B.de(r,10,r),B.nl(new B.jE(s.c,A.di,300,300)),new B.de(r,20,r),new B.vW(),B.Lp(B.b([B.ej("Grad-CAM:",B.eZ(r,r,r,r,r,r,r,r,r,A.b6,r,r,16,r,A.by,r,!0,r,r,r,r)),new B.de(r,10,r),B.nl(new B.jE(s.d,A.di,300,300)),new B.de(r,20,r)],q),A.ey),new B.de(r,20,r)],q)},
 $S:187}
 B.atD.prototype={
 $0(){var s=0,r=B.T(t.H),q=this,p
@@ -98114,7 +98114,7 @@ if(A.q.A(s.toLowerCase(),"pneumonia"))return A.ru
 return A.ms},
 a9g(){var s=this.a.d
 if(A.q.A(s.toLowerCase(),"normal"))return"Paru-paru terlihat normal tanpa indikasi abnormalitas."
-else if(A.q.A(s.toLowerCase(),"pneumonia"))return"Terdeteksi kemungkinan pneumonia. Konsultasikan hasil ke tenaga medis."
+else if(A.q.A(s.toLowerCase(),"pneumonia"))return"Terdeteksi kemungkinan pneumonia. Segera lakukan pemeriksaan lanjutan."
 return"Terdeteksi indikasi Tuberkulosis. Segera lakukan pemeriksaan lanjutan."},
 qo(){var s=0,r=B.T(t.H),q=1,p=[],o=[],n=this,m,l,k,j,i,h
 var $async$qo=B.P(function(a,b){if(a===1){p.push(b)
@@ -98204,11 +98204,11 @@ $1(a){return B.nl(new B.CP(0.08,new B.jE(this.a,A.di,300,null)))},
 $S:185}
 B.atJ.prototype={
 $1(a){var s=B.a5g(A.Fh,1),r=new B.fl(Date.now(),0,!1)
-return B.Lp(B.b([s,new B.de(null,4,null),B.ej("Generated on "+(""+B.rz(r)+"-"+A.q.eb(A.l.j(B.PV(r)),2,"0")+"-"+A.q.eb(A.l.j(B.PS(r)),2,"0")+" | "+A.q.eb(A.l.j(B.PT(r)),2,"0")+":"+A.q.eb(A.l.j(B.PU(r)),2,"0")+":"+A.q.eb(A.l.j(B.PW(r)),2,"0")),A.Kf),B.ej("\xa9 2025 AI Health Scan App",A.Kf)],t.n_),A.rQ)},
+return B.Lp(B.b([s,new B.de(null,4,null),B.ej("Generated on "+(""+B.rz(r)+"-"+A.q.eb(A.l.j(B.PV(r)),2,"0")+"-"+A.q.eb(A.l.j(B.PS(r)),2,"0")+" | "+A.q.eb(A.l.j(B.PT(r)),2,"0")+":"+A.q.eb(A.l.j(B.PU(r)),2,"0")+":"+A.q.eb(A.l.j(B.PW(r)),2,"0")),A.Kf),B.ej("\xa9 2025 MedIntel App",A.Kf)],t.n_),A.rQ)},
 $S:186}
 B.atI.prototype={
 $1(a){var s=this,r=null,q=t.n_
-return B.b([B.aGm(B.b([new B.jE(s.a,A.di,70,70),new B.de(12,r,r),B.Lp(B.b([B.ej("RS MedIntel",B.eZ(r,r,r,r,r,r,r,r,r,A.b6,r,r,22,r,A.by,r,!0,r,r,r,r)),B.ej("Medical Intelligence Centre",B.eZ(r,r,r,r,r,r,r,r,r,A.b6,r,r,14,r,r,r,!0,r,r,r,r)),B.ej(u.W,B.eZ(r,r,r,r,r,r,r,r,r,A.b6,r,r,12,r,r,r,!0,r,r,r,r))],q),A.ey)],q),A.ey),B.a5g(r,2),new B.de(r,16,r),B.nl(B.ej("AI Health Scan Report",B.eZ(r,r,r,r,r,r,r,r,r,A.b6,r,r,22,r,A.by,r,!0,r,r,r,r))),new B.de(r,20,r),B.ej("Hasil Analisis:",B.eZ(r,r,r,r,r,r,r,r,r,A.b6,r,r,18,r,A.by,r,!0,r,r,r,r)),new B.de(r,8,r),B.ej("Prediksi model: "+s.b,A.Kh),B.ej("Confidence: "+A.m.a3(s.c*100,2)+"%",A.Kh),new B.de(r,20,r),B.ej("Gambar CT Scan Pasien:",B.eZ(r,r,r,r,r,r,r,r,r,A.b6,r,r,16,r,A.by,r,!0,r,r,r,r)),new B.de(r,10,r),B.nl(new B.jE(s.d,A.di,300,300)),new B.vW(),B.ej("Grad-CAM:",B.eZ(r,r,r,r,r,r,r,r,r,A.b6,r,r,16,r,A.by,r,!0,r,r,r,r)),new B.de(r,10,r),B.nl(new B.jE(s.e,A.di,300,300))],q)},
+return B.b([B.aGm(B.b([new B.jE(s.a,A.di,70,70),new B.de(12,r,r),B.Lp(B.b([B.ej("RS MedIntel",B.eZ(r,r,r,r,r,r,r,r,r,A.b6,r,r,22,r,A.by,r,!0,r,r,r,r)),B.ej("Medical Intelligence Centre",B.eZ(r,r,r,r,r,r,r,r,r,A.b6,r,r,14,r,r,r,!0,r,r,r,r)),B.ej(u.W,B.eZ(r,r,r,r,r,r,r,r,r,A.b6,r,r,12,r,r,r,!0,r,r,r,r))],q),A.ey)],q),A.ey),B.a5g(r,2),new B.de(r,16,r),B.nl(B.ej("AI Chest X-Ray Scan Report",B.eZ(r,r,r,r,r,r,r,r,r,A.b6,r,r,22,r,A.by,r,!0,r,r,r,r))),new B.de(r,20,r),B.ej("Hasil Analisis:",B.eZ(r,r,r,r,r,r,r,r,r,A.b6,r,r,18,r,A.by,r,!0,r,r,r,r)),new B.de(r,8,r),B.ej("Prediksi model: "+s.b,A.Kh),B.ej("Confidence: "+A.m.a3(s.c*100,2)+"%",A.Kh),new B.de(r,20,r),B.ej("Gambar Chest X-Ray Pasien:",B.eZ(r,r,r,r,r,r,r,r,r,A.b6,r,r,16,r,A.by,r,!0,r,r,r,r)),new B.de(r,10,r),B.nl(new B.jE(s.d,A.di,300,300)),new B.vW(),B.ej("Grad-CAM:",B.eZ(r,r,r,r,r,r,r,r,r,A.b6,r,r,16,r,A.by,r,!0,r,r,r,r)),new B.de(r,10,r),B.nl(new B.jE(s.e,A.di,300,300))],q)},
 $S:187}
 B.atH.prototype={
 $0(){B.eU(this.a,!1).kx(null)
